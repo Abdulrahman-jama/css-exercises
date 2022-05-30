@@ -1,0 +1,19 @@
+.class {
+	background-color: #d63e5f;
+	font-family: 'verdana', 'dejavu sans', 'sans-serif';
+}
+
+#id-one {
+	color: blue;
+	font-size: 36px;
+}
+
+.class.num-two {
+	font-size: 24px;
+}
+
+#id-two {
+	background-color: lightgreen;
+	font-size: 24px;
+	font-weight: bold;
+}
